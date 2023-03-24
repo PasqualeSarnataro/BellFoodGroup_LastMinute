@@ -1,2 +1,3 @@
-# LastMinute_StartHack2023
+# BellFoodGroup_LastMinute
+
 Repository for group Last Minute. Case Partner: Bell Food Group
